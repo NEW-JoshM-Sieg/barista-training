@@ -1,0 +1,7 @@
+[
+  {"q": "What is our espresso recipe?", "options": ["18 g in, 36 g out", "14 g in, 60 g out", "22 g in, 22 g out"], "answer": 0},
+  {"q": "Which two coffees make up the Holiday Blend?", "options": ["Brazil + Sumatra", "Ethiopia Yirgacheffe + Colombia Huila", "Kenya + Guatemala"], "answer": 1},
+  {"q": "What ratio do we use for pour-over?", "options": ["1:10", "1:16", "1:25"], "answer": 1},
+  {"q": "A shot ran in 18 seconds and tastes sour. What do you change?", "options": ["Grind finer", "Grind coarser", "Use less coffee"], "answer": 0},
+  {"q": "Which roast profile is used for the Holiday Blend?", "options": ["Profile A", "Profile B", "Profile C"], "answer": 1}
+]
